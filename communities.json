@@ -587,6 +587,13 @@
       "quoteSourceUrl": "https://blog.sia.tech/sia-is-moving-from-slack-to-discord-195f87feb6a6"
     },
     {
+      "title": "Skiff",
+      "githubUrl": "https://github.com/skiff-world/skiff-apps",
+      "inviteCode": "skiff",
+      "logo": "skiff.svg",
+      "quote": "Skiff uses Discord to bring together our global community of privacy and security-focused developers and users to build, test, and update our end-to-end encrypted, privacy-first product suite."
+    },
+    {
       "title": "Slimefun",
       "githubUrl": "https://github.com/Slimefun",
       "inviteCode": "slimefun",
